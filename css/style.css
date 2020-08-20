@@ -13,8 +13,29 @@ body {
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
-	background: #fff;
+	background: white;
 	padding: 0 45px 20px;
+}
+
+img {
+	border-color: #9AABA6;
+	border-style: solid;
+	border-width: 4px;
+}
+
+h1 {
+	color: #98A9A3;
+	font-size: 5em;
+}
+
+h2 {
+	color: #7C8076;
+}
+
+.footer {
+	text-align: right;
+	color: #7C8076;
+	font-size: 80%;
 }
 
 /* Write all remaining styles here */
